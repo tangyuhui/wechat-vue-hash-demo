@@ -1,0 +1,1 @@
+export {wechatMixin} from './wechat'
